@@ -1,0 +1,11 @@
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+cache
+lib
+output
+reports
+tests
+raw-data
+
